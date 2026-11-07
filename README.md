@@ -1,2 +1,2 @@
-# iptv-250
+# iptv-25
 vlc
